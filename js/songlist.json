@@ -1,0 +1,139 @@
+[
+  {
+    "id": "the-carol-3-0",
+    "title": "The Carol 3.0",
+    "year": 2023,
+    "cover": "img/albums/thecarol30.png",
+    "songs": [
+      {
+        "title": "The Carol 3.0"
+      },
+      {
+        "title": "The Carol 3.0 (Eng Ver.)"
+      }
+    ]
+  },
+  {
+    "id": "burn",
+    "title": "<BURN>",
+    "year": 2025,
+    "cover": "img/albums/burn.png",
+    "songs": [
+      {
+        "title": "Light It Up"
+      },
+      {
+        "title": "BURN"
+      }
+    ]
+  },
+  {
+    "id": "club-icarus",
+    "title": "<Club Icarus>",
+    "year": 2025,
+    "cover": "img/albums/clubicarus.png",
+    "songs": [
+      {
+        "title": "Club for the Broken"
+      },
+      {
+        "title": "Icarus"
+      },
+      {
+        "title": "Obsessed"
+      },
+      {
+        "title": "Verified Beauty"
+      },
+      {
+        "title": "BURN"
+      }
+    ]
+  },
+  {
+    "id": "club-icarus-remix",
+    "title": "<Club Icarus> (Remix)",
+    "year": 2025,
+    "cover": "img/albums/clubicarusremix.png",
+    "songs": [
+      {
+        "title": "Icarus (Artronics Wave Remix)"
+      },
+      {
+        "title": "Icarus (G-high Remix)"
+      },
+      {
+        "title": "Icarus (EL CAPITXN Remix)"
+      }
+    ]
+  },
+  {
+    "id": "hyper-ego",
+    "title": "<Hyper-Ego>",
+    "year": 2026,
+    "cover": "img/albums/hyperego.png",
+    "songs": [
+      {
+        "title": "From Wings To Soul"
+      },
+      {
+        "title": "Born Stunner"
+      },
+      {
+        "title": "Blue Blood"
+      },
+      {
+        "title": "Icarus Gang"
+      },
+      {
+        "title": "Hyper Crush"
+      },
+      {
+        "title": "Pixel Memory"
+      }
+    ]
+  },
+  {
+    "id": "placeholder-album",
+    "title": "<DALL>",
+    "year": 2024,
+    "cover": "img/albums/dall.png",
+    "songs": [
+      {
+        "title": "url"
+      },
+      {
+        "title": "Virtual Angel"
+      },
+      {
+        "title": "Sparkle"
+      },
+      {
+        "title": " 은하수를 여행하는 히치하이커를 위한 안내서",
+        "translation": "The Hitchhiker's Guide to the Galaxy"
+      },
+      {
+        "title": "Flower Rhythm"
+      },
+      {
+        "title": "Candy Crush"
+      },
+      {
+        "title": "Air"
+      },
+      {
+        "title": "Unf/Air"
+      },
+      {
+        "title": " 조난",
+        "translation": "Distress"
+      },
+      {
+        "title": "Butterfly Effect"
+      },
+      {
+        "title": "Birth"
+      }
+    ]
+  }
+]
