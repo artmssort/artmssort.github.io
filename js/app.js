@@ -48,7 +48,7 @@ const SINGLES_TILE =
     : {
         id: SINGLES_TILE_ID,
         title: "Singles",
-        cover: "img/bandphoto.png",
+        cover: "img/bandphoto.jpg",
         songs: SINGLES.flatMap((s) => s.songs),
       };
 const COVERS_TILE =
@@ -57,7 +57,7 @@ const COVERS_TILE =
     : {
         id: COVERS_TILE_ID,
         title: "Covers",
-        cover: "img/bandphoto.png",
+        cover: "img/bandphoto.jpg",
         songs: COVERS.flatMap((s) => s.songs),
       };
 
